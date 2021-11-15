@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @logiharaldsson - Mechatronics Engineer and Web developer
 - 👀 I’m interested in alot of learning and growing all manners of programming skills. 
-- 🌱 I’m currently learning React and React Hooks, and also testing the waters in Node
+- 🌱 I’m currently learning React, React Hooks and Node
 - 📫 You can contact me by email: logiharaldss@gmail.com
 
 <!---
