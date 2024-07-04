@@ -4,7 +4,7 @@ Welcome to my GitHub! I'm a **Full Stack Developer** and **Mechatronic Engineer*
 
 ## 🤝 Let's Connect
 I'm always open to collaboration or just a chat about tech. Feel free to reach out!
-- [Email](mailto:logiharaldss@gmail.com)
+- [logiharaldss@gmail.com](mailto:logiharaldss@gmail.com)
 
 Thanks for stopping by! Happy coding! 😄
 <!---
